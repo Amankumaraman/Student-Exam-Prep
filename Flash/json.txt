@@ -1,0 +1,90 @@
+Question Answer FORMAT:
+{
+  "ques_text": "Discuss the impact of climate change on global agriculture.",
+  "created_by": "Admin",
+  "question_type": "SUB",
+  "answers": "Climate change has significant impacts on global warming.",
+  "explanation": "This question requires a detailed discussion on how climate change.",
+  "folder_id": 3
+  "tags": "important",
+
+}
+
+{
+    "ques_text": "Describe the process of photosynthesis.",
+    "created_by": "john_doe",
+    "question_type": "SUB",
+    "answers": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll.",
+    "explanation": "Photosynthesis involves the conversion of light energy into chemical energy by plants, producing oxygen and glucose from carbon dioxide and water.",
+    "folder_id": 3
+    "tags": "important",
+}
+
+
+
+MCQ FORMAT:
+{
+  "text": "Who wrote the play 'Hamlet'?",
+  "created_date": "2024-06-20T13:32:34.141661Z",
+  "created_by": "Emily Green",
+  "question_type": "MCQ",
+  "explanation": "William Shakespeare wrote the play 'Hamlet', a tragedy about the Prince of Denmark.",
+  "answers": [
+    { "answer_text": "Jane Austen", "is_correct": false },
+    { "answer_text": "Charles Dickens", "is_correct": false },
+    { "answer_text": "William Shakespeare", "is_correct": true },
+    { "answer_text": "F. Scott Fitzgerald", "is_correct": false }
+  ],
+    "folder_id": 3
+    "tags": "important",
+}
+
+FILL IN THE BLANKS FORMAT:
+{
+    "statement": "The process by which plants make their own food is called _______",
+    "created_by": "ScienceStudent567",
+    "question_type": "FIB",
+    "answers": "Photosynthesis",
+    "explanation": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll.",
+    "folder_id": 3
+    "tags": "important",
+}
+
+TRUE FALSE FORMAT:
+{
+    "statement": "The Earth revolves around the Moon.",
+    "created_by": "Admin",
+    "question_type": "TRUEFALSE",
+    "truefalse_set": "False",
+    "explanation": "The Moon revolves around the Earth. The Earth revolves around the Sun.",
+    "folder_id": 3
+    "tags": "important",
+}
+
+
+    {
+        "text": "Who wrote the play 'Haddscdcamlet'?",
+        "created_by": "Emily Green",
+        "question_type": "MCQ",
+        "explanation": "William Shakespeare wrote the play 'Hamlet', a tragedy about the Prince of Denmark.",
+        "answers": [
+            {
+                "answer_text": "Jane Austen",
+                "is_correct": false
+            },
+            {
+                "answer_text": "Charles Dickens",
+                "is_correct": false
+            },
+            {
+                "answer_text": "William Shakespeare",
+                "is_correct": true
+            },
+            {
+                "answer_text": "F. Scott Fitzgerald",
+                "is_correct": false
+            }
+        ],
+        "folder_id": 3
+        "tags": "important",
+    }

@@ -1,0 +1,4 @@
+Create a Folder: /folders/{parent_folder_id}/create_folder/
+Create a Subfolder: /folders/{parent_folder_id}/create_subfolder/
+Create a Subfolder within a Subfolder: /folders/{subfolder_id}/create_subfolder_in_subfolder/
+Create a folder within a Subfolder: /folders/{subfolder_id}/create_folder/
